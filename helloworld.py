@@ -1,6 +1,4 @@
-print('Hello World')
-print('What is your name') #ask for name here
-name = input()
-print('It is good to meet you, ' + name)
-print('The length of your name is ')
-print(len(name))
+import antigravity
+import random
+for i in range(5):
+    print(random.randint(1,10))
